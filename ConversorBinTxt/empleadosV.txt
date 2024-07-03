@@ -1,0 +1,8 @@
+1|Juan Perez|M|12/3/1999|240000.00
+2|Micaela Caseres|F|5/5/2002|240000.00
+3|Belen Barrionuevo|F|17/10/1996|240000.00
+4|Tomas Balvusa|M|29/4/2001|240000.00
+5|Roman Riquelme|M|13/8/2004|240000.00
+6|Tyron Gonzales|M|24/2/1999|240000.00
+7|Luca Proda|M|8/7/2000|240000.00
+8|Jesus Dejerusalen|M|1/12/1998|240000.00

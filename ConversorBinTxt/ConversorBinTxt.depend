@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719358402 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase10_conversorbintxt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1713220656 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\tdafecha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fecha.h"
+
+1713220904 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\tdafecha\fecha.c
+	<stdio.h>
+	"Fecha.h"
+
+1713110380 c:\users\gus\onedrive\escritorio\proyectos codeblocks\tdafecha\fecha.h
+	<stdbool.h>
+
+1713220904 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase1_tdafecha\fecha.c
+	<stdio.h>
+	"Fecha.h"
+
+1713110380 c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase1_tdafecha\fecha.h
+	<stdbool.h>
+
+1718379467 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase1_tdafecha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fecha.h"
+

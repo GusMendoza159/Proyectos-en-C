@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1719279821 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\empleadosindice\empleados.c
+	"empleados.h"
+
+1719279802 c:\users\gus\onedrive\escritorio\proyectos codeblocks\empleadosindice\empleados.h
+	<stdio.h>
+
+1719279849 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\empleadosindice\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleados.h"
+
+1719282136 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase8_empleadosindice\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleados.h"
+
+1719281458 c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase8_empleadosindice\empleados.h
+	<stdio.h>
+
+1719282287 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase8_empleadosindice\empleados.c
+	"empleados.h"
+

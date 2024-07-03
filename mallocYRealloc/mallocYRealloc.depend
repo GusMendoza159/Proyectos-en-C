@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1713403140 source:c:\users\laboratorios\onedrive - universidad nacional de la matanza\escritorio\parcial\mallocyrealloc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1718670855 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase4_mallocyrealloc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

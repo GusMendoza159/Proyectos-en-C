@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1718984744 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\metodosordenamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"vector_ordenamiento.h"
+
+1718986211 c:\users\gus\onedrive\escritorio\proyectos codeblocks\metodosordenamiento\vector_ordenamiento.h
+	"vector.h"
+
+1718986187 c:\users\gus\onedrive\escritorio\proyectos codeblocks\metodosordenamiento\vector.h
+	<stdbool.h>
+
+1719009713 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase6_metodosordenamiento\vector.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"vector.h"
+
+1718988366 c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase6_metodosordenamiento\vector.h
+	<stdbool.h>
+
+1718987744 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase6_metodosordenamiento\vector_ordenamiento.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"vector_ordenamiento.h"
+
+1718986211 c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase6_metodosordenamiento\vector_ordenamiento.h
+	"vector.h"
+
+1718988757 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase6_metodosordenamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"vector.h"
+	"vector_ordenamiento.h"
+

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1719377752 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\funcionesgenericas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones_genericas.h"
+
+1719379499 c:\users\gus\onedrive\escritorio\proyectos codeblocks\funcionesgenericas\funciones_genericas.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<memory.h>
+	<time.h>
+
+1719377945 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\funcionesgenericas\funciones_genericas.c
+	"funciones_genericas.h"
+
+1713110380 c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase1_tdafecha\fecha.h
+	<stdbool.h>
+
+1719434833 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase7_funcionesgenericas - vector iterador\funciones_genericas.c
+	"funciones_genericas.h"
+
+1719434833 c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase7_funcionesgenericas - vector iterador\funciones_genericas.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<memory.h>
+	<time.h>
+
+1719434943 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase7_funcionesgenericas - vector iterador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones_genericas.h"
+

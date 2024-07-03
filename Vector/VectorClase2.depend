@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1713569000 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\vectorclase2\vector.c
+	"vector.h"
+	<stdio.h>
+
+1713568973 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\vectorclase2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"vector.h"
+
+1713568973 c:\users\gus\onedrive\escritorio\proyectos codeblocks\vectorclase2\vector.h
+	<stdbool.h>
+
+1713569000 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase1_vector\vector.c
+	"vector.h"
+	<stdio.h>
+
+1713568973 c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase1_vector\vector.h
+	<stdbool.h>
+
+1713626778 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase2_vector\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"vector.h"
+
+1713568973 c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase2_vector\vector.h
+	<stdbool.h>
+
+1713569000 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase2_vector\vector.c
+	"vector.h"
+	<stdio.h>
+

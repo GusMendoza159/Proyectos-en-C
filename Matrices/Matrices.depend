@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1719261236 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase5_matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
+1719261197 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase5_matrices\matriz.c
+	<stdlib.h>
+	<stddef.h>
+	<stdio.h>
+
+1719261236 c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase5_matrices\matriz.h
+	<stdlib.h>
+	<stddef.h>
+	<stdio.h>
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1718647502 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase3_normalizarpalabras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cadena.h"
+	<string.h>
+	<ctype.h>
+
+1718647487 c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase3_normalizarpalabras\cadena.h
+	<stdbool.h>
+
+1718648307 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase3_normalizarpalabras\secuenciapalabras.c
+	<stdio.h>
+	"cadena.h"
+	"SecuenciaPalabras.h"
+
+1718648307 c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase3_normalizarpalabras\secuenciapalabras.h
+	<stdbool.h>
+
+1718647487 source:c:\users\gus\onedrive\escritorio\proyectos codeblocks\clase3_normalizarpalabras\cadena.c
+	<stddef.h>
+	<stdio.h>
+	"SecuenciaPalabras.h"
+

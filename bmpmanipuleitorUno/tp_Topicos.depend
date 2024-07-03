@@ -1,0 +1,350 @@
+# depslib dependency file v1.0
+1716753763 source:c:\users\gus\onedrive\escritorio\tp\tp_topicos\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1716753723 c:\users\gus\onedrive\escritorio\tp\tp_topicos\funciones_estudiante.h
+	<stdio.h>
+
+1716754981 c:\users\gus\onedrive\escritorio\tp\tp_topicos\constantes.h
+
+1716754838 source:c:\users\gus\onedrive\escritorio\tp\tp_topicos\funciones_estudiante.c
+	"funciones_estudiante.h"
+	"estructuras.h"
+	"constantes.h"
+
+1716753026 c:\users\gus\onedrive\escritorio\tp\tp_topicos\estructuras.h
+
+1717266362 source:c:\users\gus\onedrive\escritorio\tp_topicos\funciones_estudiante.c
+	"funciones_estudiante.h"
+	"estructuras.h"
+	"constantes.h"
+
+1717096475 c:\users\gus\onedrive\escritorio\tp_topicos\funciones_estudiante.h
+	<stdio.h>
+	"estructuras.h"
+
+1716753026 c:\users\gus\onedrive\escritorio\tp_topicos\estructuras.h
+
+1716936151 c:\users\gus\onedrive\escritorio\tp_topicos\constantes.h
+
+1716753763 source:c:\users\gus\onedrive\escritorio\tp_topicos\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1717272508 source:c:\users\gus\onedrive\escritorio\tp_topicos - copia\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1717272986 c:\users\gus\onedrive\escritorio\tp_topicos - copia\funciones_estudiante.h
+	<stdio.h>
+	"estructuras.h"
+
+1716753026 c:\users\gus\onedrive\escritorio\tp_topicos - copia\estructuras.h
+
+1717272508 c:\users\gus\onedrive\escritorio\tp_topicos - copia\constantes.h
+	<stdlib.h>
+
+1717275638 source:c:\users\gus\onedrive\escritorio\tp_topicos - copia\funciones_estudiante.c
+	"funciones_estudiante.h"
+	"estructuras.h"
+	"constantes.h"
+
+1717279941 source:c:\users\fede\desktop\tp_topicos - copia\funciones_estudiante.c
+	"funciones_estudiante.h"
+	"estructuras.h"
+	"constantes.h"
+
+1717278649 c:\users\fede\desktop\tp_topicos - copia\funciones_estudiante.h
+	<stdio.h>
+	"estructuras.h"
+
+1716753026 c:\users\fede\desktop\tp_topicos - copia\estructuras.h
+
+1717272508 c:\users\fede\desktop\tp_topicos - copia\constantes.h
+	<stdlib.h>
+
+1717272508 source:c:\users\fede\desktop\tp_topicos - copia\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1717373327 source:c:\users\gus\onedrive\escritorio\tp_topicos 3000\funciones_estudiante.c
+	"funciones_estudiante.h"
+	"estructuras.h"
+	"constantes.h"
+
+1717373347 c:\users\gus\onedrive\escritorio\tp_topicos 3000\funciones_estudiante.h
+	<stdio.h>
+	"estructuras.h"
+
+1716753026 c:\users\gus\onedrive\escritorio\tp_topicos 3000\estructuras.h
+
+1717272508 c:\users\gus\onedrive\escritorio\tp_topicos 3000\constantes.h
+	<stdlib.h>
+
+1717272508 source:c:\users\gus\onedrive\escritorio\tp_topicos 3000\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1717272508 source:c:\users\gus\onedrive\escritorio\tp_topicos 4000\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1717382292 c:\users\gus\onedrive\escritorio\tp_topicos 4000\funciones_estudiante.h
+	<stdio.h>
+	"estructuras.h"
+
+1716753026 c:\users\gus\onedrive\escritorio\tp_topicos 4000\estructuras.h
+
+1717272508 c:\users\gus\onedrive\escritorio\tp_topicos 4000\constantes.h
+	<stdlib.h>
+
+1717376693 source:c:\users\gus\onedrive\escritorio\tp_topicos 4000\funciones_estudiante.c
+	"funciones_estudiante.h"
+	"estructuras.h"
+	"constantes.h"
+	<stdlib.h>
+
+1717272508 source:c:\users\gus\onedrive\escritorio\tp_topicos 2\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1717382292 c:\users\gus\onedrive\escritorio\tp_topicos 2\funciones_estudiante.h
+	<stdio.h>
+	"estructuras.h"
+
+1716753026 c:\users\gus\onedrive\escritorio\tp_topicos 2\estructuras.h
+
+1717272508 c:\users\gus\onedrive\escritorio\tp_topicos 2\constantes.h
+	<stdlib.h>
+
+1717542603 source:c:\users\gus\onedrive\escritorio\tp_topicos 2\funciones_estudiante.c
+	"funciones_estudiante.h"
+	"estructuras.h"
+	"constantes.h"
+	<stdlib.h>
+
+1717272508 source:c:\users\gus\onedrive\escritorio\tp_topicos rotar maybe\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1717545761 c:\users\gus\onedrive\escritorio\tp_topicos rotar maybe\funciones_estudiante.h
+	<stdio.h>
+	"estructuras.h"
+
+1716753026 c:\users\gus\onedrive\escritorio\tp_topicos rotar maybe\estructuras.h
+
+1717272508 c:\users\gus\onedrive\escritorio\tp_topicos rotar maybe\constantes.h
+	<stdlib.h>
+
+1717545558 source:c:\users\gus\onedrive\escritorio\tp_topicos rotar maybe\funciones_estudiante.c
+	"funciones_estudiante.h"
+	"estructuras.h"
+	"constantes.h"
+	<stdlib.h>
+
+1717272508 source:c:\users\gus\onedrive\escritorio\tp_topicos recortes ok\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1717545761 c:\users\gus\onedrive\escritorio\tp_topicos recortes ok\funciones_estudiante.h
+	<stdio.h>
+	"estructuras.h"
+
+1716753026 c:\users\gus\onedrive\escritorio\tp_topicos recortes ok\estructuras.h
+
+1717272508 c:\users\gus\onedrive\escritorio\tp_topicos recortes ok\constantes.h
+	<stdlib.h>
+
+1717272508 source:c:\users\fede\desktop\tp_topicos rotar maybe\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1717552718 c:\users\fede\desktop\tp_topicos rotar maybe\funciones_estudiante.h
+	<stdio.h>
+	"estructuras.h"
+
+1716753026 c:\users\fede\desktop\tp_topicos rotar maybe\estructuras.h
+
+1717272508 c:\users\fede\desktop\tp_topicos rotar maybe\constantes.h
+	<stdlib.h>
+
+1717553014 source:c:\users\fede\desktop\tp_topicos rotar maybe\funciones_estudiante.c
+	"funciones_estudiante.h"
+	"estructuras.h"
+	"constantes.h"
+	<stdlib.h>
+
+1717272508 source:c:\users\fede\desktop\tp_topicos rotar maybe - copia\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1717552718 c:\users\fede\desktop\tp_topicos rotar maybe - copia\funciones_estudiante.h
+	<stdio.h>
+	"estructuras.h"
+
+1716753026 c:\users\fede\desktop\tp_topicos rotar maybe - copia\estructuras.h
+
+1717272508 c:\users\fede\desktop\tp_topicos rotar maybe - copia\constantes.h
+	<stdlib.h>
+
+1717557522 source:c:\users\fede\desktop\tp_topicos rotar maybe - copia\funciones_estudiante.c
+	"funciones_estudiante.h"
+	"estructuras.h"
+	"constantes.h"
+	<stdlib.h>
+
+1717272508 source:c:\users\fede\desktop\tp\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1717615148 c:\users\fede\desktop\tp\funciones_estudiante.h
+	<stdio.h>
+	"estructuras.h"
+
+1716753026 c:\users\fede\desktop\tp\estructuras.h
+
+1717272508 c:\users\fede\desktop\tp\constantes.h
+	<stdlib.h>
+
+1717640745 source:c:\users\fede\desktop\bmpmanipuleitor\main.c
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1717640723 c:\users\fede\desktop\bmpmanipuleitor\funciones_estudiante.h
+	"estructuras.h"
+
+1716753026 c:\users\fede\desktop\bmpmanipuleitor\estructuras.h
+
+1717640721 c:\users\fede\desktop\bmpmanipuleitor\constantes.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1717640701 source:c:\users\fede\desktop\bmpmanipuleitor\funciones_estudiante.c
+	"funciones_estudiante.h"
+	"estructuras.h"
+	"constantes.h"
+
+1717640746 source:c:\users\gus\onedrive\escritorio\bmpmanipuleitor\main.c
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1718149404 c:\users\gus\onedrive\escritorio\bmpmanipuleitor\funciones_estudiante.h
+	"estructuras.h"
+	"constantes.h"
+
+1716753028 c:\users\gus\onedrive\escritorio\bmpmanipuleitor\estructuras.h
+
+1717640722 c:\users\gus\onedrive\escritorio\bmpmanipuleitor\constantes.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1717640746 source:c:\users\gus\onedrive\escritorio\bmpmanipuleitordos\main.c
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1718149404 c:\users\gus\onedrive\escritorio\bmpmanipuleitordos\funciones_estudiante.h
+	"estructuras.h"
+	"constantes.h"
+
+1716753028 c:\users\gus\onedrive\escritorio\bmpmanipuleitordos\estructuras.h
+
+1717640722 c:\users\gus\onedrive\escritorio\bmpmanipuleitordos\constantes.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1718161322 source:c:\users\gus\onedrive\escritorio\bmpmanipuleitordos\funciones_estudiante.c
+	"funciones_estudiante.h"
+	"estructuras.h"
+	"constantes.h"
+
+1718241024 source:c:\users\laboratorios\desktop\bmpmanipuleitordos\funciones_estudiante.c
+	"funciones_estudiante.h"
+	"estructuras.h"
+	"constantes.h"
+
+1718149404 c:\users\laboratorios\desktop\bmpmanipuleitordos\funciones_estudiante.h
+	"estructuras.h"
+	"constantes.h"
+
+1716753028 c:\users\laboratorios\desktop\bmpmanipuleitordos\estructuras.h
+
+1717640722 c:\users\laboratorios\desktop\bmpmanipuleitordos\constantes.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1717640746 source:c:\users\laboratorios\desktop\bmpmanipuleitordos\main.c
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1717640746 source:c:\users\laboratorios\desktop\bmpmanipuleitoruno\main.c
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1718149404 c:\users\laboratorios\desktop\bmpmanipuleitoruno\funciones_estudiante.h
+	"estructuras.h"
+	"constantes.h"
+
+1716753028 c:\users\laboratorios\desktop\bmpmanipuleitoruno\estructuras.h
+
+1717640722 c:\users\laboratorios\desktop\bmpmanipuleitoruno\constantes.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1717640746 source:c:\users\gus\onedrive\escritorio\bmpmanipuleitoruno\main.c
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1718149404 c:\users\gus\onedrive\escritorio\bmpmanipuleitoruno\funciones_estudiante.h
+	"estructuras.h"
+	"constantes.h"
+
+1716753028 c:\users\gus\onedrive\escritorio\bmpmanipuleitoruno\estructuras.h
+
+1717640722 c:\users\gus\onedrive\escritorio\bmpmanipuleitoruno\constantes.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1719262006 source:c:\users\gus\onedrive\escritorio\bmpmanipuleitoruno\funciones_estudiante.c
+	"funciones_estudiante.h"
+	"estructuras.h"
+	"constantes.h"
+
+1717640746 source:c:\users\gus\onedrive\documentos\materias de la uni\tópicos de programación\proyectos codeblocks\bmpmanipuleitoruno\main.c
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1718149404 c:\users\gus\onedrive\documentos\materias de la uni\tópicos de programación\proyectos codeblocks\bmpmanipuleitoruno\funciones_estudiante.h
+	"estructuras.h"
+	"constantes.h"
+
+1716753028 c:\users\gus\onedrive\documentos\materias de la uni\tópicos de programación\proyectos codeblocks\bmpmanipuleitoruno\estructuras.h
+
+1717640722 c:\users\gus\onedrive\documentos\materias de la uni\tópicos de programación\proyectos codeblocks\bmpmanipuleitoruno\constantes.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1720016615 source:c:\users\gus\onedrive\documentos\materias de la uni\tópicos de programación\proyectos codeblocks\bmpmanipuleitoruno\funciones_estudiante.c
+	"funciones_estudiante.h"
+	"estructuras.h"
+	"constantes.h"
+
