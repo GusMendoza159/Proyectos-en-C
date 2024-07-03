@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1719973049 source:c:\users\usuario\documents\unlam\topicosprogramacion\2024\parcial\parcialdeliverytopicos_entregable\parcialdeliverytopicos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Vector/Vector.h"
+	"../SolucionParcialDeliveryTopicos/TiposDelivery.h"
+	"../SolucionParcialDeliveryTopicos/SolucionDelivery.h"
+	"../UtilitariasTopicos/Utilitarias.h"
+
+1718986036 c:\users\usuario\documents\unlam\topicosprogramacion\2024\parcial\parcialdeliverytopicos_entregable\vector\vector.h
+	<stddef.h>
+	<stdbool.h>
+	"../Comun/Comun.h"
+
+1718986036 c:\users\usuario\documents\unlam\topicosprogramacion\2024\parcial\parcialdeliverytopicos_entregable\comun\comun.h
+
+1718986036 c:\users\usuario\documents\unlam\topicosprogramacion\2024\parcial\parcialdeliverytopicos_entregable\solucionparcialdeliverytopicos\tiposdelivery.h
+
+1718986036 c:\users\usuario\documents\unlam\topicosprogramacion\2024\parcial\parcialdeliverytopicos_entregable\solucionparcialdeliverytopicos\soluciondelivery.h
+	"TiposDelivery.h"
+
+1718986036 c:\users\usuario\documents\unlam\topicosprogramacion\2024\parcial\parcialdeliverytopicos_entregable\utilitariastopicos\utilitarias.h
+	"../Comun/Comun.h"
+
